@@ -1,7 +1,7 @@
 ---
 title:
 Date: 2025-04-29
-Author: Joel
+Author: Joel Anderson
 description:
 ---
 ## Topic placeholder
