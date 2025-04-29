@@ -9,10 +9,8 @@ description:
 ## Start of Day:
 
 ### What are my goals today?
-Restart journaling
 
 ### What are my challenges today?
-Finding the time to do it, among the course work, and applying for jobs.
 
 ## End of Day
 
