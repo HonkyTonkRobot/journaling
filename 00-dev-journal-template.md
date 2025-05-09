@@ -4,7 +4,6 @@ Date: 2025-04-29
 Author: Joel Anderson
 description:
 ---
-## Topic placeholder
 
 ## Start of Day:
 
@@ -18,3 +17,4 @@ description:
 
 ### What have I learned today?
 
+## Journal
