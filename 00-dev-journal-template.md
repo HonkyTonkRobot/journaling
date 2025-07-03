@@ -1,8 +1,8 @@
 ---
 title:
-Date: 2025-04-29
+Date: 2025-06-30
 Author: Joel Anderson
-description:
+description: What a month.
 ---
 
 ## Start of Day:
