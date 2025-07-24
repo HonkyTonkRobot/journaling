@@ -20,3 +20,4 @@ description:
 
 ### What have I learned today?
 
+## Journal
