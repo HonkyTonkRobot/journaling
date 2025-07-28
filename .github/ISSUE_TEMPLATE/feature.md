@@ -12,7 +12,5 @@ Describe the high-level goal or problem this epic addresses.
 ## Subtasks
 
 - [ ] #<subtask-id> Short description
-- [ ] #<subtask-id> Short description
-- [ ] #<subtask-id> Short description
 
 ## Success Criteria
