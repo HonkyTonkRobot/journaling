@@ -1,6 +1,6 @@
 ---
-title: I over wrote the template
-Date: 2025-09-15
+title:
+Date: 2025-09-
 Author: Joel Anderson
 description:
 ---
