@@ -1,6 +1,6 @@
 ---
 title:
-Date: 2025-12-
+Date: 2026-01-
 Author: Joel Anderson
 description:
 ---
